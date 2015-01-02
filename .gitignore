@@ -1,0 +1,9 @@
+/bootstrap/compiled.php
+/vendor
+.env.php
+.DS_Store
+Thumbs.db
+.env.php
+.env.php
+.env.testing.php
+*~
